@@ -1,0 +1,359 @@
+{
+  "toons": [
+    {
+      "name": "Astro",
+      "skins": [
+        { "name": "Default Astro", "img": "Astro.webp" },
+        { "name": "Vintage Astro", "img": "Vintage_Astro.webp" },
+        { "name": "Starry Night Astro", "img": "Starry_Night_Astro.webp" },
+        { "name": "Star-Time Astro", "img": "Star-Time_Astro.webp" }
+      ]
+    },
+    {
+      "name": "Blot",
+      "skins": [
+        { "name": "Default Blot", "img": "Blot.webp" },
+        { "name": "Vintage Blot", "img": "VintageBlot.webp" },
+        { "name": "Cozy Pink Blot", "img": "Cozy_Pink_Blot.webp" },
+        { "name": "Showtime Blot", "img": "Showtime_Blot.webp" }
+      ]
+    },
+    {
+      "name": "Boxten",
+      "skins": [
+        { "name": "Default Boxten", "img": "Boxten.webp" },
+        { "name": "Vintage Boxten", "img": "Vintage_Boxten.webp" },
+        { "name": "Cloudy Dream Boxten", "img": "CloudyDreamBoxten.webp" },
+        { "name": "Passionate Wisteria Boxten", "img": "Passionate_Wisteria.webp" }
+      ]
+    },
+    {
+      "name": "Brightney",
+      "skins": [
+        { "name": "Default Brightney", "img": "Brightney.webp" },
+        { "name": "Vintage Brightney", "img": "Vintage_Brightney.webp" },
+        { "name": "Antique Shade Brightney", "img": "AntiqueShadeBrightney.webp" }
+      ]
+    },
+    {
+      "name": "Brusha",
+      "skins": [
+        { "name": "Default Brusha", "img": "Brusha.webp" },
+        { "name": "Vintage Brusha", "img": "Vintage_Brusha.webp" },
+        { "name": "Gloomy Sleeper Brusha", "img": "BrushaGloomyIdle.webp" }
+      ]
+    },
+    {
+      "name": "Connie",
+      "skins": [
+        { "name": "Default Connie", "img": "Connie.webp" },
+        { "name": "Vintage Connie", "img": "Vintage_Connie.webp" },
+        { "name": "Frosty Mittens Connie", "img": "Frosty_Mittens_Connie.webp" },
+        { "name": "Lilac Haunting Connie", "img": "Lilac_Haunting_Connie.webp" }
+      ]
+    },
+    {
+      "name": "Cosmo",
+      "skins": [
+        { "name": "Default Cosmo", "img": "Cosmo.webp" },
+        { "name": "Vintage Cosmo", "img": "Vintage_Cosmo.webp" },
+        { "name": "Caramel Drizzle Cosmo", "img": "CaramelDrizzleCosmo.webp" },
+        { "name": "Berry Roll Cosmo", "img": "Berry_Roll.webp" }
+      ]
+    },
+    {
+      "name": "Finn",
+      "skins": [
+        { "name": "Default Finn", "img": "Finn.webp" },
+        { "name": "Vintage Finn", "img": "Vintage_Finn.webp" },
+        { "name": "Prismatic Pal Finn", "img": "Prismatic_Pal_Finn.webp" }
+      ]
+    },
+    {
+      "name": "Flutter",
+      "skins": [
+        { "name": "Default Flutter", "img": "Flutter.webp" },
+        { "name": "Vintage Flutter", "img": "Vintage_Flutter.webp" },
+        { "name": "Vivid Monarch Flutter", "img": "VividMonarchFlutter.webp" }
+      ]
+    },
+    {
+      "name": "Gigi",
+      "skins": [
+        { "name": "Default Gigi", "img": "Gigi.webp" },
+        { "name": "Vintage Gigi", "img": "Vintage_Gigi.webp" },
+        { "name": "Rainy Day Gigi", "img": "Rainy_Day_Gigi_Skin.webp" }
+      ]
+    },
+    {
+      "name": "Glisten",
+      "skins": [
+        { "name": "Default Glisten", "img": "Glisten.webp" },
+        { "name": "Vintage Glisten", "img": "Vintage_Glisten.webp" },
+        { "name": "Cozy Sweater Glisten", "img": "CozySweaterGlisten.webp" }
+      ]
+    },
+    {
+      "name": "Goob",
+      "skins": [
+        { "name": "Default Goob", "img": "Goob_Default_Pose.webp" },
+        { "name": "Vintage Goob", "img": "Vintage_goob_transparent.webp" },
+        { "name": "Fun Partygoer Goob", "img": "PartyGoobyWoobie.webp" },
+        { "name": "Special Spaghetti Goob ", "img": "SpecialSpaghettiGoob.webp" }
+      ]
+    },
+    {
+      "name": "Looey",
+      "skins": [
+        { "name": "Default Looey", "img": "Looey.webp" },
+        { "name": "Vintage Looey", "img": "Vintage_Looey.webp" },
+        { "name": "Dapperly Festive Looey ", "img": "DapperlyFestiveLooey.webp" },
+        { "name": "Swirling Mix Up Looey", "img": "Swirling_Mix_Up_Looey.webp" },
+        { "name": "Showtime Looey", "img": "Showtime_Looey.webp" }
+      ]
+    },
+    {
+      "name": "Poppy",
+      "skins": [
+        { "name": "Default Poppy", "img": "Poppy.webp" },
+        { "name": "Vintage Poppy", "img": "Vintage_Poppy.webp" },
+        { "name": "Sapphire Dots Poppy", "img": "SapphireDotsPoppy.webp" },
+        { "name": "Bowful Beauty Poppy", "img": "Bowful_Beauty.webp" },
+        { "name": "Picnic Outing Poppy", "img": "Picnic_Outing.webp" }
+      ]
+    },
+    {
+      "name": "Razzle & Dazzle",
+      "skins": [
+        { "name": "Default Razzle & Dazzle", "img": "Razzle_&_Dazzle.webp" },
+        { "name": "Vintage Razzle & Dazzle", "img": "Vintage_Razzle_&_Dazzle.webp" },
+        { "name": "Seafoam Razzle & Dazzle", "img": "SeafoamRnD.webp" },
+        { "name": "Radiant Dream Razzle & Dazzle", "img": "Radiant_Dream_Razzle_&_Dazzle.webp" },
+        { "name": "Showtime Razzle & Dazzle", "img": "Showtime_Razzle_&_Dazzle.webp" }
+      ]
+    },
+    {
+      "name": "Rodger",
+      "skins": [
+        { "name": "Default Rodger", "img": "Rodger.webp" },
+        { "name": "Vintage Rodger", "img": "VintageRodger2.webp" },
+        { "name": "Ebony Detective Rodger ", "img": "EbonyDetectiveRodger.webp" },
+        { "name": "Alpha Sleeper Rodger", "img": "AlphaSleeper_in_game.webp" }
+      ]
+    },
+    {
+      "name": "Scraps",
+      "skins": [
+        { "name": "Default Scraps", "img": "Scraps.webp" },
+        { "name": "Vintage Scraps", "img": "Vintage_Scraps.webp" },
+        { "name": "Pastel Paper Scraps", "img": "PastelPaperScraps.webp" },
+        { "name": "Cutesy Calico Scraps", "img": "CutesyCalicoScraps.webp" }
+      ]
+    },
+    {
+      "name": "Shrimpo",
+      "skins": [
+        { "name": "Default Shrimpo", "img": "Shrimpo.webp" },
+        { "name": "Vintage Shrimpo", "img": "Vintage_Shrimpo.webp" },
+        { "name": "Dark Spikes Shrimpo", "img": "DarkSpikesShrimpo.webp" }
+      ]
+    },
+    {
+      "name": "Teagan",
+      "skins": [
+        { "name": "Default Teagan", "img": "Teagan.webp" },
+        { "name": "Vintage Teagan", "img": "Teagan_Vintage_Model.webp" },
+        { "name": "Purple Elegance Teagan", "img": "PurpleEleganceTeagan.webp" }
+      ]
+    },
+    {
+      "name": "Tisha",
+      "skins": [
+        { "name": "Default Tisha", "img": "Tisha.webp" },
+        { "name": "Vintage Tisha", "img": "Vintage_Tisha.webp" },
+        { "name": "Lavender Maid Tisha", "img": "LavenderMaid.webp" }
+      ]
+    },
+    {
+      "name": "Toodles",
+      "skins": [
+        { "name": "Default Toodles", "img": "Toodles.webp" },
+        { "name": "Vintage Toodles", "img": "VintageToodles.webp" },
+        { "name": "Junior Detective Toodles", "img": "JuniorDetectiveToodles.webp" }
+      ]
+    },
+    {
+      "name": "Yatta",
+      "skins": [
+        { "name": "Default Yatta", "img": "Yatta.webp" },
+        { "name": "Vintage Yatta", "img": "Vintage_Yatta.webp" },
+        { "name": "Guess What I Eat Yatta", "img": "Guess_What_I_Eat_Yatta.webp" },
+        { "name": "Blossom Buddy Yatta", "img": "BlossomBuddyYatta.webp" },
+        { "name": "Showtime Yatta", "img": "Showtime_Yatta.webp" },
+        { "name": "Colorful April Yatta", "img": "ColorfulAprilYatta.webp" },
+        { "name": "Choco Cones Yatta", "img": "Choco_Cones.webp" }
+      ]
+    },
+    {
+      "name": "Pebble",
+      "skins": [
+        { "name": "Default Pebble", "img": "Pebble.webp" },
+        { "name": "Vintage Pebble", "img": "VintagePebble.webp" },
+        { "name": "Thorned Geode Pebble", "img": "ThornedGeodePebble.webp" },
+        { "name": "Loyal Bud Pebble", "img": "LoyalBudPebble.webp" },
+        { "name": "Served Eggy Pebble", "img": "Served_Eggy_Pebble.webp" },
+        { "name": "Star-Time Pebble", "img": "Star-Time_Pebble.webp" }
+      ]
+    },
+    {
+      "name": "Shelly",
+      "skins": [
+        { "name": "Default Shelly", "img": "Shelly.webp" },
+        { "name": "Vintage Shelly", "img": "Vintage_Shelly.webp" },
+        { "name": "Dino Snore Shelly", "img": "DinoSnoreShelly.webp" },
+        { "name": "Star-Time Shelly", "img": "Star-Time_Shelly.webp" }
+      ]
+    },
+    {
+      "name": "Sprout",
+      "skins": [
+        { "name": "Default Sprout", "img": "Sprout.webp" },
+        { "name": "Vintage Sprout", "img": "VintageSprout.webp" },
+        { "name": "Salted Caramel Sprout", "img": "SaltedCaramelSprout.webp" },
+        { "name": "Star-Time Sprout", "img": "Star-Time_Sprout.webp" },
+        { "name": "CocoBerry Sprout", "img": "ChocoBerry.webp" }
+      ]
+    },
+    {
+      "name": "Vee",
+      "skins": [
+        { "name": "Default Vee", "img": "Vee.webp" },
+        { "name": "Vintage Vee", "img": "Vintage_Vee.webp" },
+        { "name": "Cosmic Signal Vee", "img": "CosmicSignalVee.webp" },
+        { "name": "Star-Time Vee", "img": "Star-Time_Vee.webp" },
+        { "name": "Showtime Vee", "img": "Showtime_Vee.webp" }
+      ]
+    },
+    {
+      "name": "Bassie",
+      "skins": [
+        { "name": "Default Bassie", "img": "Bassie.webp" },
+        { "name": "Vintage Bassie", "img": "VintageBassie.webp" },
+        { "name": "Belle Basket Bassie", "img": "Belle_Basket_Bassie.webp" }
+      ]
+    },
+    {
+      "name": "Bobette",
+      "skins": [
+        { "name": "Default Bobette", "img": "Bobette.webp" },
+        { "name": "Vintage Bobette", "img": "Vintage_Bobette.webp" },
+        { "name": "Eve Sleeper Bobette", "img": "Eve_Sleeper_Bobette.webp" }
+      ]
+    },
+    {
+      "name": "Coal",
+      "skins": [
+        { "name": "Default Coal", "img": "Coal.webp" },
+        { "name": "Vintage Coal", "img": "Vintage_Coal.webp" },
+        { "name": "Pretty Present Coal", "img": "Pretty_Present_Coal.webp" }
+      ]
+    },
+    {
+      "name": "Cocoa",
+      "skins": [
+        { "name": "Default Cocoa", "img": "Cocoa.webp" },
+        { "name": "Vintage Cocoa", "img": "Vintage_Cocoa.webp" },
+        { "name": "Spring Outing Cocoa", "img": "Spring_Outing_Cocoa.webp" }
+      ]
+    },
+    {
+      "name": "Eggson",
+      "skins": [
+        { "name": "Default Eggson", "img": "Eggson.webp" },
+        { "name": "Vintage Eggson", "img": "Vintage_Eggson.webp" },
+        { "name": "Painted Patterns Eggson", "img": "Painted_Patterns_Eggson.webp" }
+      ]
+    },
+    {
+      "name": "Flyte",
+      "skins": [
+        { "name": "Default Flyte", "img": "Flyte.webp" },
+        { "name": "Vintage Flyte", "img": "Vintage_Flyte.webp" },
+        { "name": "Spring Sky Flyte", "img": "Spring_Sky_Flyte.webp" }
+      ]
+    },
+    {
+      "name": "Ginger",
+      "skins": [
+        { "name": "Default Ginger", "img": "Ginger.webp" },
+        { "name": "Vintage Ginger", "img": "Vintage_Ginger.webp" },
+        { "name": "Minty Pine Ginger", "img": "Minty_Pine.webp" }
+      ]
+    },
+    {
+      "name": "Rudie",
+      "skins": [
+        { "name": "Default Rudie", "img": "Rudie.webp" },
+        { "name": "Vintage Rudie", "img": "Vintage_Rudie.webp" },
+        { "name": "Blue Bell Rudie", "img": "Blue_Bell_Rudie.webp" }
+      ]
+    }
+  ]
+
+,
+
+
+"twinkets": [
+  { "name": "Alarm", "img": "Alarm.webp" },
+  { "name": "Blue Bandana", "img": "Blue_Bandana.webp" },
+  { "name": "Blushy Bat", "img": "Blushy_Bat.webp" },
+  { "name": "Bone", "img": "Bone.webp" },
+  { "name": "Brick", "img": "Brick.webp" },
+  { "name": "Cardboard 'Armor'", "img": "Cardboard_'Armor'.webp" },
+  { "name": "Clown Horn", "img": "Clown_Horn.webp" },
+  { "name": "Coal (Trinket)", "img": "Coal_(Trinket).webp" },
+  { "name": "Coin Purse", "img": "Coin_Purse.webp" },
+  { "name": "Cooler", "img": "Cooler.webp" },
+  { "name": "Crayon Set", "img": "Crayon_Set.webp" },
+  { "name": "Dandy Plush", "img": "Dandy_Plush.webp" },
+  { "name": "Diary", "img": "Diary.webp" },
+  { "name": "Dog Plush", "img": "Dog_Plush.webp" },
+  { "name": "Egg Radar", "img": "Egg_Radar.webp" },
+  { "name": "Fancy Purse", "img": "Fancy_Purse.webp" },
+  { "name": "Feather Duster", "img": "Feather_Duster.webp" },
+  { "name": "Festive Lights", "img": "Festive_Lights.webp" },
+  { "name": "Fishing Rod", "img": "Fishing_Rod.webp" },
+  { "name": "Friendship Bracelet", "img": "Friendship_Bracelet.webp" },
+  { "name": "Ghost Snakes In A Can", "img": "Ghost_Snakes_In_A_Can.webp" },
+  { "name": "Glazed Fondant Bag", "img": "Glazed_Fondant_Bag.webp" },
+  { "name": "Lucky Coin", "img": "Lucky_Coin.webp" },
+  { "name": "Machine Manual", "img": "Machine_Manual.webp" },
+  { "name": "Magnifying Glass", "img": "Magnifying_Glass.webp" },
+  { "name": "Megaphone", "img": "Megaphone.webp" },
+  { "name": "Mime Makeup", "img": "Mime_Makeup.webp" },
+  { "name": "Paint Bucket", "img": "Paint_Bucket.webp" },
+  { "name": "Participation Award", "img": "Participation_Award.webp" },
+  { "name": "Party Popper", "img": "Party_Popper.webp" },
+  { "name": "Peppermint Icing", "img": "Peppermint_Icing.webp" },
+  { "name": "Pink Bow", "img": "Pink_Bow.webp" },
+  { "name": "Pop Pack", "img": "Pop_Pack.webp" },
+  { "name": "Pull Toy", "img": "Pull_Toy.webp" },
+  { "name": "Research Map", "img": "Research_Map.webp" },
+  { "name": "Ribbon Spool", "img": "Ribbon_Spool.webp" },
+  { "name": "Savory Charm", "img": "Savory_Charm.webp" },
+  { "name": "Scrapbook", "img": "Scrapbook.webp" },
+  { "name": "Spare Bulb", "img": "Spare_Bulb.webp" },
+  { "name": "Speedometer", "img": "Speedometer.webp" },
+  { "name": "Speedy Shoes", "img": "Speedy_Shoes.webp" },
+  { "name": "Star Pillow", "img": "Star_Pillow.webp" },
+  { "name": "Sweet Charm", "img": "Sweet_Charm.webp" },
+  { "name": "Thermos", "img": "Thermos.webp" },
+  { "name": "Thinking Cap", "img": "Thinking_Cap.webp" },
+  { "name": "Toy Kit", "img": "Toy_Kit.webp" },
+  { "name": "Train Whistle", "img": "Train_Whistle.webp" },
+  { "name": "Vanity Mirror", "img": "Vanity_Mirror.webp" },
+  { "name": "Vee's Remote", "img": "Vee's_Remote.webp" },
+  { "name": "Whispering Flower", "img": "Whispering_Flower.webp" },
+  { "name": "Wrench", "img": "Wrench.webp" }
+]
+}
