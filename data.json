@@ -89,7 +89,7 @@
       "name": "Glisten",
       "skins": [
         { "name": "Default Glisten", "img": "Glisten.webp" },
-        { "name": "Vintage Glisten", "img": "Vintage_Glisten.webp" },
+        { "name": "Vintage Glisten", "img": "Vintage_glisten.webp" },
         { "name": "Cozy Sweater Glisten", "img": "CozySweaterGlisten.webp" }
       ]
     },
